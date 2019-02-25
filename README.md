@@ -1,1 +1,1 @@
-# JohnsCalculatot
+# JohnsCalculator
